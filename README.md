@@ -1,166 +1,81 @@
-# Hello Dosto 👋
+<h1 align="center">Hi 👋, I'm Roshan Raj</h1>
 
-### Typing SVG
+<h3 align="center"><b>Data Scientist • AI Engineer • Machine Learning Enthusiast</b></h3>
 
-🚀 Data Scientist | Machine Learning Engineer | AI Research Enthusiast
-
----
-
-## 🚀 About Me
-
-I'm a Data Scientist & AI Engineer from 🇮🇳 India, passionate about transforming data into actionable insights and building intelligent systems. I specialize in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative AI, and MLOps. I enjoy developing end-to-end AI solutions, conducting research, and deploying scalable machine learning applications.
-
-🔭 Currently working on Machine Learning, Deep Learning, Generative AI, and AI Agents
-
-🌱 Always learning about LLMs, MLOps, Cloud Computing, and Advanced AI Techniques
-
-👯 Looking to collaborate on AI Research, Open Source Projects, and Data Science Initiatives
-
-💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, and MLOps
-
-⚡ Fun fact: I love solving real-world problems using Data and Artificial Intelligence
-
----
-
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,django,fastapi" />
+<p align="center">
+<b>Building intelligent systems and transforming data into impactful solutions 🚀</b>
 </p>
 
-### Data Science & Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer&center=true&width=500&height=40">
 </p>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" />
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="50" />
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" width="50" />
+## 🚀 **About Me**
+
+* 🔭 Building AI Agents, RAG Applications, and Machine Learning Solutions
+* 🌱 Exploring LLMs, MLOps, Kubernetes, and Cloud Technologies
+* 👯 Looking to collaborate on AI and Open Source Projects
+* 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI
+* ⚡ Passionate about solving real-world problems using AI
+
+## 🛠️ **Tech Stack**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,django,mysql,postgres,mongodb,docker,kubernetes,aws,git,github,linux,vscode" />
 </p>
 
-### Generative AI & LLMs
+## 🤖 **AI & Data Science Expertise**
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/openai" width="50"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50"/>
+<pre >
+<b>
+  Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • LLMs • RAG • AI Agents • MLOps
+</b>
+</pre>
+
+## 🚀 **Featured Projects**
+
+### 🩺 **AI Doctor Assistant**
+<p>AI-powered healthcare assistant with voice interaction and medical image analysis.</p>
+
+### 🤖 **Medical Chatbot**
+<p> RAG-based chatbot using Llama 2, LangChain, and Pinecone for intelligent medical assistance.</p>
+
+### 🫁 **Pneumonia Detection**
+<p> Deep learning model for detecting pneumonia from chest X-ray images.</p>
+
+### 🚦 **Traffic Sign Detection**
+<p> Computer vision system for real-time traffic sign classification.</p>
+
+
+## 📊 **GitHub Statistics**
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </p>
 
-### Databases
+## 🔥 **GitHub Streak**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
 </p>
 
-### Cloud & MLOps
+## 📈 **Contribution Activity**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,githubactions" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
 </p>
 
-### Monitoring & Analytics
+## 🌐 **Connect With Me**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<p align="center">
+Website • LinkedIn • Instagram • Email
 </p>
 
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+<b>💡 "Turning Data into Intelligence and Intelligence into Impact"</b>
 </p>
 
-
----
-
-## 🚀 Featured Projects
-
-### 🩺 AI Doctor Assistant
-
-Voice-enabled AI healthcare assistant with medical image analysis and speech synthesis.
-
-### 🤖 Medical Chatbot using Llama 2
-
-RAG-based chatbot powered by Llama 2 and Pinecone Vector Database.
-
-### 🫁 Pneumonia Detection System
-
-Deep Learning project for detecting pneumonia from chest X-ray images.
-
-### 🚦 Traffic Sign Detection
-
-Computer Vision project using CNNs for traffic sign classification.
-
-### 📰 Fake News Detection
-
-NLP-based machine learning system for identifying fake news articles.
-
-### 😊 Sentiment Analysis
-
-Text classification model for understanding customer sentiment.
-
----
-
-## 📊 GitHub Stats
-
-GitHub Stats
-
-Top Languages
-
-GitHub Streak
-
----
-
-## 🏆 GitHub Trophies
-
-GitHub Trophies
-
----
-
-## 📈 Activity Graph
-
-Activity Graph
-
----
-
-## 📝 Research Interests
-
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Large Language Models (LLMs)
-* Computer Vision
-* Natural Language Processing
-* AI Agents
-* MLOps
-* Healthcare AI
-
----
-
-## 🌐 Connect With Me
-
-Website
-
-LinkedIn
-
-Kaggle
-
-Email
-
-GitHub
-
----
-
-💡 "Turning Data into Intelligence and Intelligence into Impact"
-
-Profile Views
-
-GitHub Followers
-
+<p align="center">
+<b>GitHub Followers</b>
+</p>
