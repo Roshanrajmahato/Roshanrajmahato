@@ -60,21 +60,33 @@
 </td>
 </tr>
 </table>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanrajmahato&theme=github-dark&hide_border=true" />
-</p>
 
 ## 📈 **Contribution Activity**
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanrajmahato" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanrajmahato&theme=github-dark&hide_border=true" />
 </p>
 
 ## 🌐 **Connect With Me**
 
 <p align="center">
-Website • LinkedIn • Instagram • Email
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+
 
 <p align="center">
 <b>💡 "Turning Data into Intelligence and Intelligence into Impact"</b>
