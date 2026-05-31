@@ -67,7 +67,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanrajmahato&theme=github-dark&hide_border=true" />
 </p>
 
-## 🌐 **Connect With Me**
+ 
+<p align="center">
+<b>🌐 Connect With Me</b>
+</p>
 
 <p align="center">
 <a href="https://yourwebsite.com">
