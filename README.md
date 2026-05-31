@@ -50,8 +50,8 @@
 ## 📊 **GitHub Statistics**
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Roshanrajmahato&show_icons=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshanrajmahato&layout=compact" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Roshanrajmahato&show_icons=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Roshanrajmahato&layout=compact" />
 </p>
 
 ## 🔥 **GitHub Streak**
