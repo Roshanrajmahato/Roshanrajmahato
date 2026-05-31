@@ -49,13 +49,17 @@
 
 ## 🔥 **GitHub Streak** & 📊 **GitHub Statistics** 
 
-<p align="center">
-  <img width="49%"
-       src="https://streak-stats.demolab.com?user=Roshanrajmahato&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" />
+<table>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=Roshanrajmahato&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&hide_border=true"/>
+</td>
 
-  <img width="40%"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Roshanrajmahato&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true" />
-</p>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Roshanrajmahato&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true"/>
+</td>
+</tr>
+</table>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanrajmahato&theme=github-dark&hide_border=true" />
 </p>
