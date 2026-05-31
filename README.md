@@ -50,20 +50,20 @@
 ## 📊 **GitHub Statistics**
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Roshanrajmahato&show_icons=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshanrajmahato&layout=compact" />
 </p>
 
 ## 🔥 **GitHub Streak**
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+<img src="https://streak-stats.demolab.com?user=Roshanrajmahato" />
 </p>
 
 ## 📈 **Contribution Activity**
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshanrajmahato" />
 </p>
 
 ## 🌐 **Connect With Me**
